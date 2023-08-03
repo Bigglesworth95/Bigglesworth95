@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 
 - 🔭 I’m currently working on formalizing my computer science education!
 - 🌱 I’m currently learning copmuter science principles with the hopes of improving education through technology
@@ -36,5 +33,3 @@ and I can continue to grow by filling the gaps in my knowledge (of which there m
 If admitted to such an institution, I am also confident that I will be able to shed the mindset issues which have held me back, as it is easy to become plagued with self-doubt when you have no one to turn 
 to when things get difficult and when you are unsure if the progress you are making is sufficient to begin a potential career. 
 
-
--->
