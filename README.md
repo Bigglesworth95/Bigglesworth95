@@ -7,7 +7,7 @@ This github is a portfolio of many things I've worked on. Anything pre2024 is fr
 How to Read: 
 Here, I'll go over what each repo is all about
 1. Private repos are relvant to UPenn's MCIT program
-2. App Academy V1 is where the vast majority of my work is, as well as my most impressive work. It is divided into 7 branches. 
+2. App Academy V1 is is divided into 7 branches. 
     A. Chess: This is my most impressive project, in my opinion, because I did it entirely
     on my own with no help or even peeking at the solution
     B. Intro to programming: Just some basic problems and challenges; nothing high-level here (probably nothing high-level anywhere here; but even relative to myself this is basic)
