@@ -1,5 +1,5 @@
 
-- 🔭 I’m currentlyformalizing my computer science education via UPenn's MCIT program (relevant projects are private)
+- 🔭 I’m currently formalizing my computer science education via UPenn's MCIT program (relevant projects are private)
 
 Overview: 
 This github is a portfolio of many things I've worked on. Anything pre2024 is from App Academy V1; from 2024 onwards is MICT & independent projects. 
